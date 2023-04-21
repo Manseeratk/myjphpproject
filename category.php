@@ -58,7 +58,7 @@ include "header.php";
             <thead>
                 <tr>
                 <th>ID</th>
-                    <th>name</th>
+                    <th>Name</th>
                     <th>Description</th>
                     <th>Status</th>
                     <th>Created At</th>
