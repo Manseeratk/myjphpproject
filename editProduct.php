@@ -81,7 +81,7 @@ include "header.php";
                             
                             <!-- <div class="col-12">
                                 <div class="form-group">
-                                    <label for="image" class="form-label">Image:</label>
+                                    <label for="image" class="form-label"> Image:</label>
                                     <input type="text" class="form-control" id="image" name="image" required>
                                 </div>
                             </div> -->
