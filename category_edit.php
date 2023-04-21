@@ -28,6 +28,7 @@ include "header.php";
 
 
 <h1>Edit Category</h1>
+
 <form method="post" action="category_edit.php?id=<?php echo $row['id']?>">
     <div class="mb-3">
         <label for="title" class="form-label">name:</label>
