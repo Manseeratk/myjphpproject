@@ -40,7 +40,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 
 
-
+//
 $categoriesSql = $conn->query('SELECT * FROM categories');
 $categories = $categoriesSql->fetchAll();
 
