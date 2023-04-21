@@ -12,7 +12,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     $stmt= $conn->prepare($sql);
     $stmt->execute($data);
 
-    header('location: /category.php');
+    header('location: /category.php'); 
 }
 
 $title = "Category";
@@ -53,7 +53,7 @@ include "header.php";
         </div>
         <div class="col-md-3 col-12">
         </div>
-    </div>
+    </div> 
        
 
 <?php include "footer.php" ?>
