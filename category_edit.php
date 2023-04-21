@@ -40,7 +40,7 @@ include "header.php";
     </div>
     <input type="hidden" name="id" value="<?php echo $row['id']?>" />
     
-    <button type="submit" name="submit" value="submit" class="btn btn-primary">Update Category</button>
+    <button type="submit" name="submit" value="submit" class="btn btn-primary"> Update Category</button>
 </form>
 
 
