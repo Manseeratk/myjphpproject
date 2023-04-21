@@ -128,7 +128,7 @@ include "header.php";
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-12">
+        <div class="col-md-3 col-12"> 
         </div>
     </div>
           
