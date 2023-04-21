@@ -96,6 +96,7 @@
                     </div>
                 </div>
             </a></li>
+		
         <li class="auto-suggestion"><a class="d-flex align-items-center justify-content-between py-50 w-100" href="app-user-view.html">
                 <div class="d-flex align-items-center">
                     <div class="avatar mr-75"><img src="app-assets/images/portrait/small/avatar-s-1.jpg" alt="png" height="32"></div>
