@@ -67,7 +67,7 @@ include "header.php";
                                         
                                     </div>
                                     <?php if($product['in_stock'] == 1) {?>
-                                        <p class="card-text">Available - <span class="text-success">In stock</span></p>
+                                        <p class="card-text">Available - <span class="text-success">Ins tock</span></p>
                                     <?php } else { ?>
                                         <p class="card-text">Available - <span class="text-grey">Out of stock</span></p>
                                     <?php } ?>
