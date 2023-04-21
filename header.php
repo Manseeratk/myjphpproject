@@ -94,6 +94,7 @@
                     <div class="search-data">
                         <p class="search-data-title mb-0">John Doe</p><small class="text-muted">UI designer</small>
                     </div>
+			
                 </div>
             </a></li>
 		
