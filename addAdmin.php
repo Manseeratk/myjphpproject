@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $res = $conn->query($sql);
     if ($res->num_rows > 0) {
-        $error = "Email already in use. Please try another email.";
+        $error = "Email already in use. Please try other email.";
     } else {
         $sql = "insert into users (name, email, phone, password, role_id) values ('" . $name . "', '" . $email . "', '" . $phone . "', '" . $password . "', 2)";//md5($password)
         $res = $conn->query($sql);
