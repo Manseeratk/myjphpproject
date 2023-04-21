@@ -135,7 +135,7 @@ include "header.php";
         </div>
 
 <script>
-    $(document).on("click", ".delete-category", function() {
+    $(document).on("click", ".delete-category", function(){
         var category_id = $(this).data('id');
         $(".modal-body #category_id").val(category_id);
     });
